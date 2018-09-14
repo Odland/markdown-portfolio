@@ -1,1 +1,11 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+```c
+#include<stdio.h>
+int main(void)
+{
+    printf("This is a piece of c language code");
+    return 0;
+}
+```
+*Italic*
+
+**Bold**
